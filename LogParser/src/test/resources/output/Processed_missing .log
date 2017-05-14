@@ -1,0 +1,6 @@
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:32, error:Missing linked source file: C:\tfs\Ver12.00\ua_dev\ua-test-bamboo\doc\Importee\en-US\Content\Cross_reference_X_BEFORE.htm}
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:35, error:Missing linked source file: C:\tfs\Ver12.00\ua_dev\ua-test-bamboo\doc\Importee\en-US\Content\Resources\Images\QV_Icon_X.PNG}
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:62, error:Missing cross-referenced file: C:\tfs\Ver12.00\ua_dev\ua-test-bamboo\doc\Importee\en-US\Output\ffd\HTML5_X\Content\Cross_reference_X_BEFORE.htm}
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:96, error:Missing linked source file: C:\tfs\Ver12.00\ua_dev\ua-test-bamboo\doc\Importee\en-US\Content\Cross_reference_X_BEFORE.htm}
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:98, error:Missing linked source file: C:\tfs\Ver12.00\ua_dev\ua-test-bamboo\doc\Importee\en-US\Content\Resources\Images\QV_Icon_X.PNG}
+{file:C:\Users\swati\workspace\LogParser\src\test\resources\input\sample.log, line:108, error:Missing cross-referenced file: file:///C:/tfs/Ver12.00/ua_dev/ua-test-bamboo/doc/Importee/en-US/Output/ffd/Temporary/PDF_X/PDF_X_782D798E/Cross_reference_X_BEFORE.htm}
